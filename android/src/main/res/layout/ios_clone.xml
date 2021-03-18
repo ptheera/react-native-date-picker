@@ -20,7 +20,7 @@
             custom:npv_ShownCount="5"
             android:layout_width="0dp"
             android:layout_height="match_parent"
-            custom:npv_DividerColor="#cccccc"
+            custom:npv_DividerColor="#64fafa"
             />
         <com.henninghall.date_picker.pickers.IosClone
             android:id="@+id/year"
@@ -129,7 +129,7 @@
             custom:npv_ShownCount="5"
             android:layout_width="0dp"
             android:layout_height="match_parent"
-            custom:npv_DividerColor="#cccccc"
+            custom:npv_DividerColor="#64fafa"
             />
     </LinearLayout>
     <LinearLayout
