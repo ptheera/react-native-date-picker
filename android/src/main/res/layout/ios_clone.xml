@@ -20,7 +20,7 @@
             custom:npv_ShownCount="5"
             android:layout_width="0dp"
             android:layout_height="match_parent"
-            custom:npv_DividerColor="#64fafa"
+            custom:npv_DividerColor="#cccccc"
             />
         <com.henninghall.date_picker.pickers.IosClone
             android:id="@+id/year"
@@ -98,7 +98,7 @@
             android:layout_weight="1"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            custom:npv_DividerColor="#cccccc"
+            custom:npv_DividerColor="#64fafa"
             custom:npv_RespondChangeOnDetached="false"
             custom:npv_ShownCount="5"
             custom:npv_TextColorNormal="#aaaaaa"
@@ -113,7 +113,7 @@
             android:layout_weight="1"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            custom:npv_DividerColor="#cccccc"
+            custom:npv_DividerColor="#64fafa"
             custom:npv_RespondChangeOnDetached="false"
             custom:npv_ShownCount="5"
             custom:npv_TextColorNormal="#aaaaaa"
@@ -129,7 +129,7 @@
             custom:npv_ShownCount="5"
             android:layout_width="0dp"
             android:layout_height="match_parent"
-            custom:npv_DividerColor="#64fafa"
+            custom:npv_DividerColor="#cccccc"
             />
     </LinearLayout>
     <LinearLayout
