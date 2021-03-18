@@ -34,7 +34,7 @@
             custom:npv_TextSizeSelected="21dp"
             custom:npv_TextColorSelected="#000000"
             custom:npv_TextColorNormal="#aaaaaa"
-            custom:npv_DividerColor="#64fafa" />
+            custom:npv_DividerColor="#cccccc" />
 
         <com.henninghall.date_picker.pickers.IosClone
             android:id="@+id/month"
@@ -48,7 +48,7 @@
             custom:npv_TextSizeSelected="21dp"
             custom:npv_TextColorSelected="#000000"
             custom:npv_TextColorNormal="#aaaaaa"
-            custom:npv_DividerColor="#64fafa"
+            custom:npv_DividerColor="#cccccc"
             />
 
         <com.henninghall.date_picker.pickers.IosClone
